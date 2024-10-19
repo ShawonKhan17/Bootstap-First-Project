@@ -1,0 +1,8 @@
+.col-md-3:hover{
+    border: 0.5px solid #dc3545;
+}
+@media only screen and (max-width:767px){
+    #top-selleing-last-div{
+        margin-top: 50px;
+    }
+}
